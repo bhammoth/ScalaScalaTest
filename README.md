@@ -1,1 +1,1 @@
-I wrote this in Scala with no previous scala experince and used scala test for the unit testing. Requirements are outlined in the pdf in the repo.
+I wrote this in Scala with no previous scala experince and used junit for the unit testing. Requirements are outlined in the pdf in the repo. Needs some refactoring but code works and and test all pass.
